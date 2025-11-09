@@ -91,4 +91,4 @@ b5 d5 [g5 f5][e5 f5]
 
 
 >*4`)
-.sound("piano").velocity("1")
+.sound("piano").velocity("1").gain("1")
